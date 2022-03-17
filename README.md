@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mykaellen e Sejam Bem-vindos ao lado rosa da força!
+### Olá! Eu sou a Mykaellen e sejam bem-vindos ao lado rosa da força!
 
 - Eu atualmente estudo Java, Spring Boot e React⚡.
 - Eu estou sempre querendo aprimorar meu conhecimento🚀.
