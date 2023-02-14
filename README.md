@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Mykaellen e sejam bem-vindos ao lado rosa da força!
 
-- Eu atualmente estudo Java, Spring Boot e Angular⚡.
+- Eu atualmente estudo Java, Spring Boot e SQL⚡.
 - Eu estou sempre querendo aprimorar meu conhecimento🚀.
 <div align="center">
  <a href="https://github.com/mykadias">
