@@ -26,5 +26,6 @@
 
 ---
   
-  ![Snake animation](https://github.com/mykadias/mykadias/blob/output/github-contribution-grid-snake.svg)
+[![Myka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mykadias&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
