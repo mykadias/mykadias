@@ -3,7 +3,7 @@
 - Backend development with **Java** + **Spring Boot**  
 - Database **SQL Server**, **MongoDB** with **Docker**  
 - Integrations with APIs
-- Interest in performance, logs, and system architecture --MUDAR
+- Enthusiastic about system performance, observability (logs/metrics), and software architecture  
 
 <div align="center">
   <a href="https://github.com/mykadias">
